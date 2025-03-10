@@ -3,7 +3,7 @@
 function sumOfAllNumbers(num){
     console.log(num)
     let sum=0;
-    for(let i of num){
+    for(let i of num) {
          sum+=i
     }
     return sum;
